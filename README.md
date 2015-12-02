@@ -31,3 +31,5 @@ You're now ready to deploy your application!
 + type `git push heroku master`
 + Sit back and smile OR Google your error!
 
+
+<a href='https://learn.co/lessons/hs-deploying-to-heroku-with-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
