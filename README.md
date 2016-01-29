@@ -32,4 +32,4 @@ You're now ready to deploy your application!
 + Sit back and smile OR Google your error!
 
 
-<a href='https://learn.co/lessons/hs-deploying-to-heroku-with-nitrous' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-deploying-to-heroku-with-nitrous' title='Deploying to Heroku From Nitrous'>Deploying to Heroku From Nitrous</a> on Learn.co and start learning to code for free.</p>
